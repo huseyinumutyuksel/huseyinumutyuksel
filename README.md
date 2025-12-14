@@ -62,5 +62,5 @@ Merhaba! Ben **Hüseyin Umut Yüksel**.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinumutyuksel&theme=tokyonight&hide_border=true" alt="git_streak" />
+  <img src="https://streak-stats.demolab.com?user=huseyinumutyuksel&theme=tokyonight&hide_border=true" alt="git_streak" />
 </div>
