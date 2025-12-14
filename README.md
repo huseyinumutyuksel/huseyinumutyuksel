@@ -55,12 +55,12 @@ Merhaba! Ben **Hüseyin Umut Yüksel**.
 
 <div align="center">
 <br/>
-<a href="https://github.com/humutyuksel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humutyuksel&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humutyuksel&layout=compact&theme=tokyonight&hide_border=true&locale=tr" />
+<a href="https://github.com/huseyinumutyuksel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huseyinumutyuksel&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinumutyuksel&layout=compact&theme=tokyonight&hide_border=true&locale=tr" />
 </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humutyuksel&theme=tokyonight&hide_border=true" alt="git_streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinumutyuksel&theme=tokyonight&hide_border=true" alt="git_streak" />
 </div>
